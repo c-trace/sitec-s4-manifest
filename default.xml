@@ -28,4 +28,6 @@
     <copyfile  dest="bootstrap" src="../../.repo/manifests/bootstrap"/>
   </project>
 
+  <project remote="github" revision="master" name="c-trace/meta-ctrace-s4" path="src/meta-ctrace-s4"/>
+
 </manifest>
